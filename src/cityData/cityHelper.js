@@ -1,12 +1,12 @@
 const cities = require('./city.list.json');
 
- const cityList = cities.map(city => {
+const cityList = cities.map(city => {
     city.name = city.name.toLowerCase();
     return city;
 });
 
-console.log(cityList);
+// console.log(cityList);
 
-exports.cityList = cityList;
+module.exports.cityList = cityList;
 
 
