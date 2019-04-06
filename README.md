@@ -1,3 +1,9 @@
+## Weather Cast
+A weather application created with Reactjs & OpenWeatherAPI
+
+Live Demo: 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
